@@ -59,11 +59,11 @@
             // gridAvion
             // 
             this.gridAvion.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.gridAvion.Location = new System.Drawing.Point(485, 117);
+            this.gridAvion.Location = new System.Drawing.Point(402, 121);
             this.gridAvion.Name = "gridAvion";
             this.gridAvion.RowHeadersWidth = 62;
             this.gridAvion.RowTemplate.Height = 28;
-            this.gridAvion.Size = new System.Drawing.Size(240, 150);
+            this.gridAvion.Size = new System.Drawing.Size(367, 150);
             this.gridAvion.TabIndex = 6;
             // 
             // btnInsertar

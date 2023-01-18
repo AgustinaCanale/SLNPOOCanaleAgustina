@@ -66,12 +66,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmAvion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmAvion.Designer.cs">
-      <DependentUpon>frmAvion.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\202301181917521_initial.cs" />
     <Compile Include="Migrations\202301181917521_initial.designer.cs">
       <DependentUpon>202301181917521_initial.cs</DependentUpon>
@@ -90,9 +84,6 @@
     <Compile Include="Modelos\LineaAerea.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmAvion.resx">
-      <DependentUpon>frmAvion.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202301181917521_initial.resx">
       <DependentUpon>202301181917521_initial.cs</DependentUpon>
     </EmbeddedResource>

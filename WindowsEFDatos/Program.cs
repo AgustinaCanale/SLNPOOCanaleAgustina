@@ -16,7 +16,7 @@ namespace WindowsEFDatos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAvion());
+            Application.Run(new Form1());
         }
     }
 }

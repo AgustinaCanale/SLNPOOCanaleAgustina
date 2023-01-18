@@ -25,7 +25,8 @@ namespace WindowFormPrueba
             {
                 Denominacion = txtNombre.Text,
                 Capacidad = 200,
-                IdLinea = 1
+                IdLinea = 1,
+             
             };
 
             int filasAfectadas = abmAvion.Insert(avion);
